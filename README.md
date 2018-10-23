@@ -1,6 +1,3 @@
-Designers-Challenge
-
-
 Description:
 
     Our project is Hlios. Its a Digital temperture monior. 
