@@ -15,4 +15,4 @@ Usage
 
 Schematic:
 
-![alt text](https://github.com/thanosmour98/ethernet_arduino_lm35/blob/master/44597674_1904603136284999_1294697309895917568_n.png)
+![alt text](https://github.com/thanosmour98/ethernet_arduino_lm35/blob/master/Scematic.png)
