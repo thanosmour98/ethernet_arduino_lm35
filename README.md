@@ -12,6 +12,7 @@ Tools needed:
 Usage
 
     Thermals of a room
+    You can open the .fzz file in Fritzing
 
 Schematic:
 
